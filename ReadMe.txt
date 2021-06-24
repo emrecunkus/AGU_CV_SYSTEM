@@ -1,3 +1,12 @@
+AGU CV SYSTEM coded by Muhammed Emre Cunkus.
+PhpMyAdmin , Php, JavaScript ,CSS ,HTML, BOOTSTRAP technologies are used.
+
+Here its with you with massive front end and fast back end.
+Students can share their cv to seek jobs. They will be hired by employers.
+Employers can share their work oppurtinities.
+
+
+
 1-Open xampp
 2-start apace and mysql
 3- Go to phpmyadmin and createa a new schema called 'AGU_CV_SYSTEM'
